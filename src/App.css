@@ -1,0 +1,4 @@
+.list{text-align: left; padding-left: 20px; border-bottom: 1px solid grey; user-select: none;}
+.font{font-weight: normal; font-size: 14px; }
+button{margin-left: 20px; border: none; background: rgb(252, 229, 199);padding: 5px 20px; border-radius: 5px;}
+.modal{background: #ddd; padding: 30px; box-sizing: border-box; position: absolute; top: 50% ; left: 50%; width: 80%; transform: translate(-50% , -50%);} 
